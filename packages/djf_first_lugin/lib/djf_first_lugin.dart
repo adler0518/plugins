@@ -18,7 +18,7 @@ class DjfFirstLugin {
     final String name = await _channel.invokeMethod(
       'getName',
       <String, dynamic>{
-        'source': surname,
+        'surname': surname,
       },
     );
 

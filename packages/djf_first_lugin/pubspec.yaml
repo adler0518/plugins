@@ -1,9 +1,8 @@
 name: djf_first_lugin
 description: A new flutter plugin project.
-version: 0.0.1
-author:
-  - dujinfeng. <dujinfeng@gmail.com>
-homepage:
+version: 0.0.2
+author: dujinfeng. <dujinfeng@gmail.com>
+homepage: https://github.com/adler0518/plugins/tree/master/packages/djf_first_lugin
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
